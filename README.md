@@ -1,4 +1,4 @@
-#<h1>Flipkart Clone</h1>
+<h1>Flipkart Clone</h1>
 <p>This project is made by using Full Stack Web Development technologies: </p>
 <ul>
   <li>M : Mongo DB used as Database.</li>
