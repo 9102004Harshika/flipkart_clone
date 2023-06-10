@@ -43,4 +43,6 @@
     <p>Along with this extension , we also need a developer tools package <p>
     <h4>Command to install redux developer tools package :</h4>
     <ul><li><a href="https://www.npmjs.com/package/@redux-devtools/extension">redux-devtools-extension</a></li></ul>
-
+    <p>In order to connect Redux store we need a middle ware.</p>
+    <p>Thunk is a middleware for Redux.</p>
+    <p>It allows writing functions with logic inside that can interact with a Redux store's dispatch and getState methods.</p>
