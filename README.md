@@ -39,6 +39,8 @@
     <h4>Command to install Redux : </h4>
     <ul><li><a href="https://www.npmjs.com/package/redux">npm i redux</a></li></ul>
     <p>In order to see redux  store one need to add below extension to chrome : </p>
-    <ul><li><a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd">Redux DevTools</a></li></ul>
-
+<ul><li><a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd">Redux DevTools</a></li></ul>
+    <p>Along with this extension , we also need a developer tools package <p>
+    <h4>Command to install redux developer tools package :</h4>
+    <ul><li><a>redux-devtools-extension</a></li></ul>
 
