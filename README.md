@@ -1,1 +1,1 @@
-<h1>Flipkart Clone</h1>
+<h1 style="text-align:center;">Flipkart Clone</h1>
