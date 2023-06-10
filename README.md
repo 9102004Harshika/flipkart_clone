@@ -8,6 +8,7 @@
 </ul>
 <h1>Frontend Technology</h1>
 <p> React is used as a Front end and creating a user friendly web based clone of flipkart.</p>
+<mark><p>You need to download node to access npm and npx commands</p></mark>
 <h4>Command to create a react project</h4>
 <ul><li><a href="https://legacy.reactjs.org/docs/create-a-new-react-app.html">npx create-react-app</a></li></ul>
 <p> Material-UI library is used which provides a better design for the project and also provides reusable components that can be used while making project.</p>
