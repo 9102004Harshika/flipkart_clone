@@ -22,10 +22,16 @@
   <h4>Command to install Material-Icons package:<h4>
   <ul><li><a href="https://mui.com/material-ui/material-icons/">npm install @mui/icons-material</a></li></ul>
 <hr/>
-  <p>We have used react router for providing routing and pagination to project</p>
+  <p>Used react router for providing routing and pagination to project . </p>
   <p>React router dom is the package that we have used for routing purpose.</p>
   <p>React router dom provides functions like useNavigate , Link to provide routing amongst multiple pages .</p>
   <h4>Command to install React-router-dom:<h4>
     <ul><li><a href="https://www.npmjs.com/package/react-router-dom">npm i react-router-dom</a></li></ul>
+<hr/>
+    <p>Used axios for making http requests from the browser.</p>
+    <p>Axios is a promise based http client for websites and browsers. </p>
+    <p>Used axios to create apis for frontend.</p>
+    <h4>Command to install Axios</h4>
+    <ul><li><a href="https://axios-http.com/docs/intro">npm i axios</a></li></ul>
 
 
