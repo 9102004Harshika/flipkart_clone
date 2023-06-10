@@ -6,7 +6,7 @@
   <li>R : React used as a Frontend technology.</li>
   <li>N : Node used as a Backend technology.</li>
 </ul>
-<p>We have also used redux as a frontend store here. </p>
+<p>Also used redux as a frontend store here. </p>
 <h1>Frontend Technology</h1>
 <p> React is used as a Front end and creating a user friendly web based clone of flipkart.</p>
 <p>Note :- You need to download node to access npm and npx commands</p>
