@@ -17,5 +17,7 @@
 <p>Material-UI provides a package called icons-material that can be used in the project to import multiple icons .</>
   <h4>Command to install Material-UI package</h4>
   <ul><li><a href="https://mui.com/">npm install @mui/material @emotion/react @emotion/styled</a></li></ul>
+  <h4>Command to install Material-Icons package<h4>
+  <ul><li><a href="https://mui.com/material-ui/material-icons/">npm install @mui/icons-material</a></li></ul>
 
 
