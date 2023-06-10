@@ -1,3 +1,8 @@
 <h1>Flipkart Clone</h1>
-<hr/>
-<p>This project is made </p>
+<p>This project is made by using Full Stack Web Development technologies: </p>
+<ul>
+  <li>M</li>
+  <li>E</li>
+  <li>R</li>
+  <li>N</LI>
+</ul>
