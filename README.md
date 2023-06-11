@@ -51,3 +51,4 @@
     <p>Along with this packages ,other packages are also installed which are mentioned below :</p>
     <ul><li><a href="https://www.npmjs.com/package/react-redux">npm i react-redux</a></li>
     <li><a href="https://www.npmjs.com/package/react-multi-carousel">npm i react-multi-carousel</a></li></ul>
+    <h1>Backend Technologies : </h1>
