@@ -46,3 +46,5 @@
     <p>In order to connect Redux store we need a middle ware.</p>
     <p>Thunk is a middleware for Redux.</p>
     <p>It allows writing functions with logic inside that can interact with a Redux store's dispatch and getState methods.</p>
+    <h4>Command to install thunk package : </h4>
+    <ul><li><a href="https://www.npmjs.com/package/redux-thunk">npm i redux-thunk</a></li></ul>
