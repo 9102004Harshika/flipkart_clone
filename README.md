@@ -48,3 +48,6 @@
     <p>It allows writing functions with logic inside that can interact with a Redux store's dispatch and getState methods.</p>
     <h4>Command to install thunk package : </h4>
     <ul><li><a href="https://www.npmjs.com/package/redux-thunk">npm i redux-thunk</a></li></ul>
+    <p>Along with this packages ,other packages are also installed which are mentioned below :</p>
+    <ul><li><a href="https://www.npmjs.com/package/react-redux">npm i react-redux</a></li>
+    <li><a href="https://www.npmjs.com/package/react-multi-carousel">npm i react-multi-carousel</a></li></ul>
