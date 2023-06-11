@@ -7,7 +7,7 @@
   <li>N : Node used as a Backend technology.</li>
 </ul>
 <p>Also used redux as a frontend store here. </p>
-<h1>Frontend Technology</h1>
+<h1>Frontend Technology : REACT</h1>
 <p> React is used as a Front end and creating a user friendly web based clone of flipkart.</p>
 <p>Note :- You need to download node to access npm and npx commands</p>
 <p><a href="https://nodejs.org/en/download">Download Node JS</a></p>
