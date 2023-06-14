@@ -52,3 +52,15 @@
     <ul><li><a href="https://www.npmjs.com/package/react-redux">npm i react-redux</a></li>
     <li><a href="https://www.npmjs.com/package/react-multi-carousel">npm i react-multi-carousel</a></li></ul>
     <h1>Backend Technologies : Node and Express Js</h1>
+    <p>You have to  download below packages:</p>
+    <ul>
+      <li><a href="https://www.npmjs.com/package/body-parser">body-parser</a></li>
+      <li><a href="https://www.npmjs.com/package/cors">npm i cors</a></li>
+      <li><a href="https://www.npmjs.com/package/dotenv">pm i dotenv</a></li>
+      <li><a href="https://www.npmjs.com/package/express">npm i express</a></li>
+      <li><a href="https://www.npmjs.com/package/formidable">npm i formidable</a></li>
+      <li><a href="https://www.npmjs.com/package/https">npm i https</a></li>
+      <li><a href="https://www.npmjs.com/package/mongoose">npm i mongoose</a></li>
+      <li><a href="https://www.npmjs.com/package/nodemon">npm i nodemon</a></li>
+      <li><a href="https://www.npmjs.com/package/uuid">npm i uuid</a></li>
+    </ul>
